@@ -1,2 +1,2 @@
-# RMA-LV2
+# RMA-LV2 - InspiringPerson app
 Zadatak 1 - InspiringPerson
