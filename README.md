@@ -1,2 +1,2 @@
-# RMA-LV2 - InspiringPerson app
-Zadatak 1 - InspiringPerson
+#InspiringPerson Kotlin App
+InspiringPerson Kotlin application created for Mobile Development assignment (RMA-LV2)
