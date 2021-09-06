@@ -1,2 +1,2 @@
-# InspiringPerson Kotlin Application
+# InspiringPerson - Kotlin App
 InspiringPerson Kotlin application created for Mobile Development assignment (RMA-LV2)
